@@ -1,6 +1,0 @@
-/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttackPol/bin/Debug/BruteForceAttackPol.exe
-/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttackPol/bin/Debug/BruteForceAttackPol.pdb
-/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttackPol/obj/Debug/BruteForceAttackPol.csprojAssemblyReference.cache
-/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttackPol/obj/Debug/BruteForceAttackPol.csproj.CoreCompileInputs.cache
-/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttackPol/obj/Debug/BruteForceAttackPol.exe
-/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttackPol/obj/Debug/BruteForceAttackPol.pdb
