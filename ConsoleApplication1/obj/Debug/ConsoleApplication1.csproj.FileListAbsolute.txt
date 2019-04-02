@@ -1,0 +1,6 @@
+/Users/juan/RiderProjects/BruteForceAttack/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/juan/RiderProjects/BruteForceAttack/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/juan/RiderProjects/BruteForceAttack/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+/Users/juan/RiderProjects/BruteForceAttack/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/Users/juan/RiderProjects/BruteForceAttack/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/juan/RiderProjects/BruteForceAttack/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb

@@ -1,0 +1,13 @@
+/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttack/bin/Debug/BruteForceAttack.exe
+/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttack/bin/Debug/BruteForceAttack.pdb
+/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttack/obj/Debug/BruteForceAttack.csprojAssemblyReference.cache
+/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttack/obj/Debug/BruteForceAttack.csproj.CoreCompileInputs.cache
+/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttack/obj/Debug/BruteForceAttack.exe
+/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttack/obj/Debug/BruteForceAttack.pdb
+/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttack/bin/Debug/Flurl.dll
+/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttack/bin/Debug/Flurl.Http.dll
+/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttack/bin/Debug/Newtonsoft.Json.dll
+/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttack/bin/Debug/Flurl.xml
+/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttack/bin/Debug/Flurl.Http.xml
+/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttack/bin/Debug/Newtonsoft.Json.xml
+/Users/juan/RiderProjects/BruteForceAttack/BruteForceAttack/obj/Debug/BruteForceAttack.csproj.CopyComplete
